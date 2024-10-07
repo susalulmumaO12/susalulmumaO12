@@ -1,6 +1,29 @@
+<pre>
+                        (@@@@)          .
+  O        .           (   @@@@)             .      ___
+                      (     @@@@@)                (  \\)
+                 _____/      @@@@@   .          (   \\\@)                                                        
+    .           /           @@@@@            __(    \\\@@)                                                       _¥_
+            (  \              @@@@@)        (......\\\@@@@)___                                                 /| 0 |\
+          (    /            @@@@@@)__           ^^^^^^^^^^^^^^^^            .            .               __^^^^^|_п_|^^^^
+ .        ((            @@@@@@@@@@@@@))        .          .          .            .                ____///////////////////
+     ____(            @@@@@@@@@@@@@@)                   .                 .                    ___////////////////////////
+    (________\\\\\\\@@@@@@@@@@@@@@)         .                .                               ///  ///  ///  ///  /// /// /
+                                         ______                      .                  ____|  _              ___      __
+      A                  A              /      \        .        .                    /  _    /       __/    /   __  /
+    //|\\       A      //|\\         _/   .曇.   \_         .                     ___/  /    |      _/          /     __
+    //|\\      / \     //|\\          |   ____   |                            __/  _  /       _      __    __/      /
+    //|\\      /_\     //|\\          |   |  |   |                          /     /      ___/     __/     /        /
+......|.........|........|............|___|..|___|......................../            /        /        |  @susalulmumaO12
+</pre>
+
 <h2 align="left">Hello! This is Salma, computer science student.</h2>
 
-
+<p>
+  🌱 I’m currently learning computer networking.
+  <br>
+  ⚡ Fun fact: Some crabs can see all around them – 360 degrees.
+</p>
 
 ###
 
@@ -46,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
 </div>
