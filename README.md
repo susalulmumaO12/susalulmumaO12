@@ -78,6 +78,11 @@
 
 ###
 
+###
+<h3 align="left">I love documentation</h3>
+
+I usually focus on documenting every step and detail of my projects to keep track of every little change, and I beleive it's important to make a documentation for every project, so that we can safely pass it to others while making sure it's understandable. I think a documentation should assume the reader knows nothing on the subject and should provide them with good resources to make the understanding proccess quick so they can keep on reading the documentation.
+###
 <!--
 **susalulmumaO12/susalulmumaO12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
