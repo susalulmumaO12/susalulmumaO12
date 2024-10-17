@@ -1,4 +1,4 @@
-<pre>
+<pre lang="javascript">
                         (@@@@)          .            .                  .                          .              .                    .                        .                      .
   O        .           (   @@@@)             .      ___  .      .              .          .                .                    .                .                        .  
                       (     @@@@@)                (  \\)                             .              .                    .                  .               .                    .
@@ -20,7 +20,7 @@
 <h2 align="left">Hello! This is Salma, computer science student.</h2>
 
 <p>
-  🌱 I’m currently learning computer networking.
+  🌱 I’m currently studying computer networking.
 
   🔭 Working on my NodeJs skills.
   
@@ -77,6 +77,17 @@
 </div>
 
 ###
+
+<h3 align="left">📈 My GitHub stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susalulmumao12&theme=nightowl&radius=10&area=true&hide_border=true&hide_title=true" height="400" alt="susalulmumao12's activity graph"  />
+</div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=susalulmumao12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="susalulmumao12's Stats" height="200">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=susalulmumao12&theme=tokyonight&hide_border=true" alt="susalulmumao12's Streak" height="200">
+  </div>
 
 ###
 <h3 align="left">I love documentation</h3>
