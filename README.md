@@ -17,94 +17,107 @@
 ......|.........|........|............|___|..|___|......................../            /        /      | @susalulmumaO12   \        \      \        \...............................................
 </pre>
 
-<h2 align="left">Hello! This is Salma, computer science student.</h2>
 
-<p>
-  🌱 I’m currently studying computer networking.
+<h3 align="center">
+  Hello! This is Salma, Network Engineer 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-  🔭 Working on my NodeJs skills.
-  
-  ⚡ Fun fact: Some crabs can see all around them – 360 degrees.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF97B0&center=true&width=435&lines=Backend+Developer;Network+Engineer;CyberSecurity+Student" alt="Typing SVG" /></a>
 </p>
 
-###
 
-<h3 align="left">Skills:</h3>
+<br>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-</div>
+### 🛈 About Me (<a href="./assets/SalmaAlfawal-CV.pdf" target="_blank">View My CV</a>)
+|🏢 I'm a **Backend Developer** Using **Nodejs** & **Express**.|
+| :--- |
+|🌱 I’m currently studying computer networking.
+|🔭 Working on my NodeJs skills.|
+ 
+<img src="./assets/loading.gif" width="1000" height="10" align="cwnter"/>
 
-###
+> I am a Backend Developer using **Node.js**, **Express.js**, and **MySQL**, where I utilize my skills in **SQL**, **JavaScript**, and **Node.js** to design, develop, and maintain the backend of freelance applications. I am passionate about **learning new technologies** and frameworks like **Flutter** and **Laravel**, and I have completed several online courses and certifications in both **Backend Development** and **Frontend Development**.
 
-<h3 align="left">📈 My GitHub stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susalulmumao12&theme=nightowl&radius=10&area=true&hide_border=true&hide_title=true" height="400" alt="susalulmumao12's activity graph"  />
-</div>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=susalulmumao12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="susalulmumao12's Stats" height="200">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=susalulmumao12&theme=tokyonight&hide_border=true" alt="susalulmumao12's Streak" height="200">
-  </div>
 
-###
-<h3 align="left">I love documentation</h3>
+<br>
 
-I usually focus on documenting every step and detail of my projects to keep track of every little change, and I beleive it's important to make a documentation for every project, so that we can safely pass it to others while making sure it's understandable. I think a documentation should assume the reader knows nothing on the subject and should provide them with good resources to make the understanding proccess quick so they can keep on reading the documentation.
-###
-<!--
-**susalulmumaO12/susalulmumaO12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🎯 &nbsp;My Skills
+| 💻 **Languages & Frameworks** |
+| :--- |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,js,typescript,mysql,php,laravel,flutter,c,cpp,java,py,html,css" />|
+| 🛠 **Tools** |
+| <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,webstorm,postman,androidstudio,github,git,md,firebase,discord,bots,windows,linux,arch,stackoverflow,npm,illustrator,aftereffects,premiere,photoshop&perline=12" />|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+
+## My Lifecycle
+<img src="./assets/hattori-peak.gif" width="640" height="480" align="right"/>
+
+```js
+function main() {
+    while (true) {
+        [code, painting, helpOthers, rest].
+        forEach(task => task());
+        console.log("Repeating the cycle...");
+    }
+}
+
+const code = () => console.log("Writing code...");
+const painting = () => console.log("Painting...");
+const helpOthers = () => console.log("Helping others...");
+const rest = () => console.log("Taking a break...");
+
+main();
+```
+
+
+<br>
+
+
+### 📩 Let's Talk:
+<a href="https://discord.com/users/susalulmumao12" target="_blank"><img src="https://img.shields.io/badge/-susalulmumao12-0077B5?style=for-the-badge&logo=discord"/></a>
+<a href="https://www.linkedin.com/in/salma-fawal12/" target="_blank"><img src="https://img.shields.io/badge/-Salma Alfawal-0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="fawal.salma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-fawal.salma-0077B5?style=for-the-badge&logo=Gmail"/></a>
+
+
+<br>
+
+
+## 🎖️ My Statistics:
+
+<!-- GitHub Stats -->
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <h3>📊 Top Languages:</h3>
+      <img src="https://encept-github-status.vercel.app/api/top-langs?username=susalulmumaO12&langs_count=6&show_icons=true&locale=en&theme=synthwave&layout=donut" alt="Top Languages" style="border-radius: 8px;" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <h3>🔥 GitHub Streaks:</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=susalulmumaO12&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" style="border-radius: 8px;" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=susalulmumaO12&theme=synthwave&hide_border=true&show_icons=true" alt="GitHub Streak" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+
+
+<br>
+
+
+### ✨ Random Quote:
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow_out_in&quoteCategory=programming?border=true">
+</a>
+
