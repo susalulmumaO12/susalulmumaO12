@@ -37,7 +37,7 @@
 |🌱 I’m currently studying computer networking.
 |🔭 Working on my NodeJs skills.|
  
-<img src="./assets/loading.gif" width="1000" height="10" align="cwnter"/>
+<img src="./assets/loading.gif" width="1000" height="10" align="center"/>
 
 > I am a Backend Developer using **Node.js**, **Express.js**, and **MySQL**, where I utilize my skills in **SQL**, **JavaScript**, and **Node.js** to design, develop, and maintain the backend of freelance applications. I am passionate about **learning new technologies** and frameworks like **Flutter** and **Laravel**, and I have completed several online courses and certifications in both **Backend Development** and **Frontend Development**.
 
@@ -59,7 +59,10 @@
 
 
 ## My Lifecycle
-<img src="./assets/hattori-peak.gif" width="640" height="480" align="right"/>
+
+<div style="float: right; margin-left: 20px;">
+    <img src="./assets/hattori-peak.gif" align="right" width="480" height="480"/>
+</div>
 
 ```js
 function main() {
@@ -70,14 +73,13 @@ function main() {
     }
 }
 
-const code = () => console.log("Writing code...");
-const painting = () => console.log("Painting...");
-const helpOthers = () => console.log("Helping others...");
-const rest = () => console.log("Taking a break...");
+const code = () => console.log("Writing code.");
+const painting = () => console.log("Painting.");
+const helpOthers = () => console.log("Helping others.");
+const rest = () => console.log("Taking a break.");
 
 main();
 ```
-
 
 <br>
 
