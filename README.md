@@ -61,7 +61,7 @@
 ## My Lifecycle
 
 <div style="float: right; margin-left: 20px;">
-    <img src="./assets/hattori-peak.gif" align="right" width="480" height="480"/>
+    <img src="./assets/hattori-peak.gif" align="right" width="400" height="360"/>
 </div>
 
 ```js
