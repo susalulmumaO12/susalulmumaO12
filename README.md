@@ -5,16 +5,16 @@
                  _____/      @@@@@   .          (   \\\@)                .                                .                                                
     .           /           @@@@@            __(    \\\@@)                          .         .                 _¥_            .         .      .        (@@@)        .                  .
             (  \              @@@@@)        (......\\\@@@@)___                                       .        /| 0 |\                                (    @@@@@)
-          (    /            @@@@@@)__           ^^^^^^^^^^^^^^^^            .            .               _^^^^^|_п_|^^^^_                    .  (       @@@@@@@@)
- .        ((            @@@@@@@@@@@@@))        .          .          .            .                ____//////////\\\\\\\\\____         ,,,,,(...............@@@@@@@)
-     ____(            @@@@@@@@@@@@@@)                                     .                    ___///////////////\\\\\\\\\\\\\\___          
-    (________\\\\\\\@@@@@@@@@@@@@@)         .                .                  .        .   /\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\                                                (@@)
+          (    /            @@@@@@)__           ^^^^^^^^^^^^^^^^            .            .               _^^^^^|_п_|^^^^_                    .  (       @@@@@@@@)             .             .
+ .        ((            @@@@@@@@@@@@@))        .          .          .            .                ____//////////\\\\\\\\\____         ,,,,,(...............@@@@@@@)  .                 .
+     ____(            @@@@@@@@@@@@@@)                                     .                    ___///////////////\\\\\\\\\\\\\\___          .               .                  .
+    (________\\\\\\\@@@@@@@@@@@@@@)         .                .                  .        .   /\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\              .           .                      (@@)
                                          ______                      .                  ____|  _              ___      __    ___   |___                              _____________(  @@@)
       A                  A              /      \        .        .      .             /  _    /       __/    /   __  /      \    \  _   \                       ....(................@@@@)
-    //|\\       A      //|\\         _/   .曇.   \_         .               .     ___/  /    |      _/          /     __    __      __    \___
-    //|\\      / \     //|\\          |   ____   |                            __/  _  /       _      __    __/      /     ___  \      \      _\__
-    //|\\      /_\     //|\\          |   |  |   |                          /     /      ___/     __/   __/        /     __     |__    \__        \
-......|.........|........|............|___|..|___|......................../            /        /      | @susalulmumaO12   \        \      \        \...............................................
+    //|\\       A      //|\\         _/   .曇.   \_         .               .     ___/  /    |      _/          /     __    __      __    \___                                           
+    //|\\      / \     //|\\          |   ____   |                            __/  _  /       _      __    __/      /     ___  \      \      _\__                          //|\\                  
+    //|\\      /_\     //|\\          |   |  |   |                          /     /      ___/     __/   __/        /     __     |__    \__        \                        //|\\                    
+......|.........|........|............|___|..|___|......................../            /        /      | @susalulmumaO12   \        \      \        \........................|......................
 </pre>
 
 
@@ -52,7 +52,7 @@
 | :--- |
 | <img src="https://skillicons.dev/icons?i=nodejs,express,js,typescript,mysql,php,laravel,flutter,c,cpp,java,py,html,css" />|
 | 🛠 **Tools** |
-| <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,webstorm,postman,androidstudio,github,git,md,firebase,discord,bots,windows,linux,arch,stackoverflow,npm,illustrator,aftereffects,premiere,photoshop&perline=12" />|
+| <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,github,git,md,firebase,discord,bots,windows,linux,arch,stackoverflow,npm,illustrator,aftereffects,premiere,photoshop&perline=12" />|
 
 
 <br>
@@ -85,9 +85,9 @@ main();
 
 
 ### 📩 Let's Talk:
-<a href="https://discord.com/users/susalulmumao12" target="_blank"><img src="https://img.shields.io/badge/-susalulmumao12-0077B5?style=for-the-badge&logo=discord"/></a>
+<a href="https://discord.com/users/susalulmumao12" target="_blank"><img src="https://img.shields.io/badge/-susalulmumao12-0077B5?style=for-the-badge&logo=discord&color=F3FDF3"/></a>
 <a href="https://www.linkedin.com/in/salma-fawal12/" target="_blank"><img src="https://img.shields.io/badge/-Salma Alfawal-0077B5?style=for-the-badge&logo=Linkedin"/></a>
-<a href="fawal.salma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-fawal.salma-0077B5?style=for-the-badge&logo=Gmail"/></a>
+<a href="fawal.salma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-fawal.salma-0077B5?style=for-the-badge&logo=Gmail&color=F3FDF3"/></a>
 
 
 <br>
