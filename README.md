@@ -50,7 +50,7 @@
 ### 🎯 &nbsp;My Skills
 | 💻 **Languages & Frameworks** |
 | :--- |
-| <img src="https://skillicons.dev/icons?i=nodejs,express,js,typescript,mysql,php,laravel,flutter,c,cpp,java,py,html,css" />|
+| <img src="https://skillicons.dev/icons?i=nodejs,express,js,typescript,mysql,php,laravel,flutter,c,cpp,cmake,java,py,html,css" />|
 | 🛠 **Tools** |
 | <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,github,git,md,firebase,discord,bots,windows,linux,arch,stackoverflow,npm,illustrator,aftereffects,premiere,photoshop&perline=12" />|
 
