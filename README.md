@@ -35,11 +35,11 @@
 |🏢 I'm a **Backend Developer** Using **Nodejs** & **Express**.|
 | :--- |
 |🌱 I’m currently studying computer networking.
-|🔭 Working on my NodeJs skills.|
+|🔭 Exploring new worlds.|
  
 <img src="./assets/loading.gif" width="1000" height="10" align="center"/>
 
-> I am a Backend Developer using **Node.js**, **Express.js**, and **MySQL**, where I utilize my skills in **SQL**, **JavaScript**, and **Node.js** to design, develop, and maintain the backend of freelance applications. I am passionate about **learning new technologies** and frameworks like **Flutter** and **Laravel**, and I have completed several online courses and certifications in both **Backend Development** and **Frontend Development**.
+> I am a Backend Developer using **Node.js**, **Express.js**, and **MySQL**, where I utilize my skills in **SQL**, **JavaScript**, and **Node.js** to design, develop, and maintain the backend of freelance applications. I am passionate about **learning new technologies** and frameworks like **Flutter**, **Laravel** and **Spring Boot**, and I have completed several online courses in both **Backend Development** and **Frontend Development**.
 
 
 
@@ -52,7 +52,7 @@
 | :--- |
 | <img src="https://skillicons.dev/icons?i=nodejs,express,js,typescript,mysql,php,laravel,flutter,c,cpp,cmake,java,py,html,css" />|
 | 🛠 **Tools** |
-| <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,github,git,md,firebase,discord,bots,windows,linux,arch,stackoverflow,npm,illustrator,aftereffects,premiere,photoshop&perline=12" />|
+| <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,github,git,md,firebase,discord,bots,windows,linux,arch,stackoverflow,npm,illustrator,aftereffects,premiere&perline=12" />|
 
 
 <br>
@@ -100,7 +100,7 @@ main();
   <tr>
     <td align="center" style="padding: 10px;">
       <h3>📊 Top Languages:</h3>
-      <img src="https://encept-github-status.vercel.app/api/top-langs?username=susalulmumaO12&langs_count=6&show_icons=true&locale=en&theme=synthwave&layout=donut" alt="Top Languages" style="border-radius: 8px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susalulmumaO12&layout=donut&theme=synthwave&show_icons=true&locale=en" alt="Top Languages" style="border-radius: 8px;" />
     </td>
     <td align="center" style="padding: 10px;">
       <h3>🔥 GitHub Streaks:</h3>
