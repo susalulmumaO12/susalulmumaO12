@@ -11,9 +11,9 @@
     (________\\\\\\\@@@@@@@@@@@@@@)         .                .                  .        .   /\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\              .           .                      (@@)
                                          __羊__                      .                  ____|  _              ___      __    ___   |___                              _____________(  @@@)
       A                  A              /      \        .        .      .             /  _    /       __/    /   __  /      \    \  _   \         .          .  ....(................@@@@)
-    //|\\       A      //|\\         _/   .曇.   \_         .               .     ___/  /    |      _/          /     __    __      __    \_🐈_                                           .
+    //|\\       A      //|\\         _/   .曇.   \_         .               .     ___/  /    |      _/          /     __    __      __    \_🐈_                          ^^^^^^^^^         .
     //|\\      / \     //|\\          |   ____   |                            __/  _  /       _      __    __/      /     ___  \      \      _\__木        .                //|\\   .              
-    //|\\      /_\     //|\\          |   |  |   |                          /     /      ___/     __/   __/        /     __     |__    \__        \木                       //|\\       .            
+    //|\\      /_\     //|\\          |   |  |   |                          /     /      ___/     __/   __/ @hikarupii / __     |__    \__        \木                       //|\\       .            
 ......|.........|........|............|___|..|___|..女....人....ᓚᘏᗢ......./            /        /      | @susalulmumaO12   \        \      \        \........................|......................
 </pre>
 
@@ -86,13 +86,21 @@ main();
 
 ### 📩 Let's Talk:
 <a href="https://www.linkedin.com/in/salma-fawal12/" target="_blank">
-  <img src="https://img.shields.io/badge/-Salma Alfawal-0077B5?style=for-the-badge&logo=Linkedin"/>
+    <img src="https://img.shields.io/badge/-Salma Alfawal-0077B5?style=for-the-badge&logo=Linkedin&logocolor=FFFFFF"/>
 </a>
 <a href="mailto:fawal.salma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-fawal.salma-0077B5?style=for-the-badge&logo=Gmail&color=F3FDF3" />
 </a>
 
+### 🎨 Online Gallery:
+Here are some of the places where I share what I create in my free time.
 
+<a href="https://hikarupii.gumroad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Hikarupii-FF90E8?style=for-the-badge&logo=gumroad&logoColor=FFFFFF" />
+</a>
+<a href="https://patreon.com/hikarupii?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link" target="_blank">
+    <img src="https://img.shields.io/badge/-Hikarupii-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF" />
+</a>
 
 <br>
 
