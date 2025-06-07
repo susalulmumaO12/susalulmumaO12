@@ -13,7 +13,7 @@
       A                  A              /      \        .        .      .             /  _    /       __/    /   __  /      \    \  _   \         .          .  ....(................@@@@)
     //|\\       A      //|\\         _/   .曇.   \_         .               .     ___/  /    |      _/          /     __    __      __    \_🐈_                          ^^^^^^^^^         .
     //|\\      / \     //|\\          |   ____   |                            __/  _  /       _      __    __/      /     ___  \      \      _\__木        .                //|\\   .              
-    //|\\      /_\     //|\\          |   |  |   |                          /     /      ___/     __/   __/ @hikarupii / __     |__    \__        \木                       //|\\       .            
+    //|\\      /_\     //|\\          |   |  |   |                          /     /      ___/     __/   __/            / __     |__    \__        \木                       //|\\       .            
 ......|.........|........|............|___|..|___|..女....人....ᓚᘏᗢ......./            /        /      | @susalulmumaO12   \        \      \        \........................|......................
 </pre>
 
@@ -24,14 +24,14 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF97B0&center=true&width=435&lines=Backend+Developer;Network+Engineer;CyberSecurity+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF97B0&center=true&width=435&lines=Network+Engineer;CyberSecurity+Student" alt="Typing SVG" /></a>
 </p>
 
 
 <br>
 
 
-### 🛈 About Me (<a href="./assets/SalmaAlfawal-CV.pdf" target="_blank">View My CV</a>)
+### 🛈 About Me (<a href="./assets/SalmaAlfawal-CV.pdf" target="_blank">Check my CV</a>)
 |🏢 I'm a **Backend Developer** Using **Nodejs** & **Express**.|
 | :--- |
 |🌱 I’m currently studying computer networking.
@@ -39,9 +39,7 @@
  
 <img src="./assets/loading.gif" width="1000" height="10" align="center"/>
 
-> I am a Backend Developer using **Node.js**, **Express.js**, and **MySQL**, where I utilize my skills in **SQL**, **JavaScript**, and **Node.js** to design, develop, and maintain the backend of freelance applications. I am passionate about **learning new technologies** and frameworks like **Flutter**, **Laravel** and **Spring Boot**, and I have completed several online courses in both **Backend Development** and **Frontend Development**.
-
-
+> I am a Network Engineering student, interested in **Digital Forensics**, Penetration Testing, **OSINT**, and Operating Systems. I am passionate about **learning new technologies** every chance I have to expand my knowledge.
 
 
 <br>
@@ -50,9 +48,9 @@
 ### 🎯 &nbsp;My Skills
 | 💻 **Languages & Frameworks** |
 | :--- |
-| <img src="https://skillicons.dev/icons?i=nodejs,express,js,typescript,mysql,php,laravel,flutter,c,cpp,cmake,java,py,html,css" />|
+| <img src="https://skillicons.dev/icons?i=js,typescript,mysql,php,c,cpp,cmake,java,py,html,css" />|
 | 🛠 **Tools** |
-| <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,github,git,md,firebase,discord,bots,windows,linux,arch,stackoverflow,npm,illustrator,aftereffects,premiere&perline=12" />|
+| <img src="https://skillicons.dev/icons?i=vscode,github,git,md,bots,windows,linux,arch,stackoverflow,npm,vim&perline=12" />|
 
 
 <br>
@@ -90,16 +88,6 @@ main();
 </a>
 <a href="mailto:fawal.salma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-fawal.salma-0077B5?style=for-the-badge&logo=Gmail&color=F3FDF3" />
-</a>
-
-### 🎨 Online Gallery:
-Here are some of the places where I share what I create in my free time.
-
-<a href="https://hikarupii.gumroad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Hikarupii-FF90E8?style=for-the-badge&logo=gumroad&logoColor=FFFFFF" />
-</a>
-<a href="https://patreon.com/hikarupii?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link" target="_blank">
-    <img src="https://img.shields.io/badge/-Hikarupii-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF" />
 </a>
 
 <br>
