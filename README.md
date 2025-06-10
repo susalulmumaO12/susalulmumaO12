@@ -32,9 +32,8 @@
 
 
 ### 🛈 About Me (<a href="./assets/SalmaAlfawal-CV.pdf" target="_blank">Check my CV</a>)
-|🏢 I'm a **Backend Developer** Using **Nodejs** & **Express**.|
-| :--- |
-|🌱 I’m currently studying computer networking.
+|🌱 I’m currently studying computer networking.|
+|:---|
 |🔭 Exploring new worlds.|
  
 <img src="./assets/loading.gif" width="1000" height="10" align="center"/>
