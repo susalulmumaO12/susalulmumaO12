@@ -31,88 +31,48 @@
 <br>
 
 
-### 🛈 About Me (<a href="./assets/SalmaAlfawal-CV.pdf" target="_blank">Check my CV</a>)
+<h3> <a href="./assets/SalmaAlfawal-Resume.pdf"> 🛈 About Me </a> <a href="https://www.linkedin.com/in/salma-fawal12/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="20"/></a> <a href="mailto:fawal.salma@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="20"/></a> </h3>
+
 |🌱 I’m currently studying computer networking.|
 |:---|
+|🔍 Learning Digital Forensics & Incident Response.| 
 |🔭 Exploring new worlds.|
  
 <img src="./assets/loading.gif" width="1000" height="10" align="center"/>
 
-> I am a Network Engineering student, interested in **Digital Forensics**, Penetration Testing, **OSINT**, and Operating Systems. I am passionate about **learning new technologies** every chance I have to expand my knowledge.
+> I am a Network Engineering student interested in **Digital Forensics (DFIR)**, Incident Response, **OSINT**, and Operating Systems. I love uncovering system stories hidden in memory, logs, and packets ~ while exploring the underlying amusement of code and art.
 
 
 <br>
 
 
-### 🎯 &nbsp;My Skills
+### 🎯 &nbsp;Skills
 | 💻 **Languages & Frameworks** |
 | :--- |
 | <img src="https://skillicons.dev/icons?i=js,typescript,mysql,php,c,cpp,cmake,java,py,html,css" />|
 | 🛠 **Tools** |
-| <img src="https://skillicons.dev/icons?i=vscode,github,git,md,bots,windows,linux,arch,stackoverflow,npm,vim&perline=12" />|
+| <img src="https://skillicons.dev/icons?i=linux,arch,debian,windows,vscode,github,git,md,bots,stackoverflow,vim&perline=12" />|
 
 
 <br>
 
-
-## My Lifecycle
-
 <div style="float: right; margin-left: 20px;">
-    <img src="./assets/hattori-peak.gif" align="right" width="400" height="360"/>
+    <img src="./assets/hattori-peak.gif" align="right" width="330" height="290"/>
 </div>
 
 ```js
 function main() {
     while (true) {
-        [code, painting, helpOthers, rest].
+        [search, learn, apply, paint, helpOthers, rest].
         forEach(task => task());
         console.log("Repeating the cycle...");
     }
 }
 
-const code = () => console.log("Writing code.");
-const painting = () => console.log("Painting.");
-const helpOthers = () => console.log("Helping others.");
-const rest = () => console.log("Taking a break.");
+console.log("Inspecting, learning, helping others, growing...");
 
 main();
 ```
-
-<br>
-
-
-### 📩 Let's Talk:
-<a href="https://www.linkedin.com/in/salma-fawal12/" target="_blank">
-    <img src="https://img.shields.io/badge/-Salma Alfawal-0077B5?style=for-the-badge&logo=Linkedin&logocolor=FFFFFF"/>
-</a>
-<a href="mailto:fawal.salma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-fawal.salma-0077B5?style=for-the-badge&logo=Gmail&color=F3FDF3" />
-</a>
-
-<br>
-
-
-## 🎖️ My Statistics:
-
-<!-- GitHub Stats -->
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <h3>📊 Top Languages:</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susalulmumaO12&layout=donut&theme=synthwave&show_icons=true&locale=en" alt="Top Languages" style="border-radius: 8px;" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <h3>🔥 GitHub Streaks:</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=susalulmumaO12&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" style="border-radius: 8px;" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=susalulmumaO12&theme=synthwave&hide_border=true&show_icons=true" alt="GitHub Streak" style="border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-
 
 <br>
 
